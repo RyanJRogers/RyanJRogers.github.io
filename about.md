@@ -5,13 +5,13 @@ permalink: /about/
 ---
 ## Hi and Welcome!
 
-Originally from NY, I studied applied and computational maths @ [usc](/https://www.usc.edu/).
+Originally from NY, I studied applied and computational maths @ [usc](https://www.usc.edu/).
 
 
 ### Lately
 
 * Working on various data science projects @ Microsoft
-* Learning about [GANs](/https://en.wikipedia.org/wiki/Generative_adversarial_network).
+* Learning about [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network).
 
 [Link to another page](/index.html).
 
