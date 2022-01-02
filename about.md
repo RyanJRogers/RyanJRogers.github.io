@@ -3,9 +3,9 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+## Hi and Welcome!
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Originally from NY, I studied applied and computational maths at the University of Southern California.
 
 [Link to another page](/index.html).
 
