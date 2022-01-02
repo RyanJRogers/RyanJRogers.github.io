@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## Hi and Welcome!
 
-Originally from NY, I studied applied and computational maths at the University of Southern California.
+Originally from NY, I studied applied and computational maths @ [usc](/https://www.usc.edu/).
 
 [Link to another page](/index.html).
 
