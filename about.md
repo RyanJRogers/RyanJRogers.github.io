@@ -3,7 +3,7 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Hi and Welcome :)
+## Hi and Welcome!!! :)
 
 From New York, studied applied and computational maths at [usc](https://www.usc.edu/)
 
