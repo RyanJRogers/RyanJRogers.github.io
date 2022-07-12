@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 ## This might be a blog
 
-From New York, studied applied and computational maths at [usc](https://www.usc.edu/)
+This is space for me to flesh out ideas.
 
 
 ### Lately
