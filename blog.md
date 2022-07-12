@@ -1,9 +1,11 @@
-# TESTING
+---
+layout: inner
+title: About
+permalink: /about/
+---
+## This might be a blog
 
-## I think this might be a blog
-
-Just need a forum for ideas really.
-cmon
+From New York, studied applied and computational maths at [usc](https://www.usc.edu/)
 
 
 ### Lately
