@@ -1,8 +1,3 @@
----
-layout: inner
-title: About
-permalink: /about/
----
 ## I think this might be a blog
 
 Just need a forum for ideas really.
