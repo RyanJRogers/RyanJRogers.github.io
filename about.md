@@ -3,9 +3,9 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## I think this might be a blog
+## Hi and Welcome :)
 
-I just need a forum for ideas really.
+From New York, studied applied and computational maths at [usc](https://www.usc.edu/)
 
 
 ### Lately
